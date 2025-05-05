@@ -30,8 +30,15 @@
 - **Language:** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 - **Environment:** Windows 콘솔 기반  
 - **Key Concepts:**  
+  - 객체지향 프로그래밍(OOP)  
   - 클래스 상속 및 추상 클래스  
-  - 순수 가상 함수  
-  - 오버라이딩 / 오버로딩
+  - 순수 가상 함수를 활용한 다형성  
+  - 함수 오버라이딩 / 오버로딩
 
 ---
+
+## 👤 담당 역할
+
+- 차량(Car) 객체 구현 및 일정 방향 이동 로직 설계  
+- 플레이어와 충돌 시 게임 오버 처리 로직 구현  
+- 라운드별 차량 수 증가에 따른 난이도 조절 설계
